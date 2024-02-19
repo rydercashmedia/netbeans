@@ -1015,7 +1015,7 @@
 	},
 	"dependencies": {
 		"jsonc-parser": "3.0.0",
-		"@vscode/debugadapter": "1.55.1",
+		"@vscode/debugadapter": "1.64.0",
 		"vscode-languageclient": "8.0.1"
 	},
 	"__metadata": {
